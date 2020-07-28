@@ -39,7 +39,8 @@ Skills {#skills}
 ##### Web development
 R Shiny, JavaScript, React.js, HTML, CSS
 
-<div> </div>
+<div>   
+</div>
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
@@ -79,7 +80,7 @@ MicroMasters in Data Science.
 
 edX, online
 
-2019 - 2020
+2020
 
 ### Université d'Angers
 
@@ -99,7 +100,7 @@ CERDI CNRS (Center for Studies and Research in Development Economics)
 
 Clermont-Ferrand, France
 
-April - July 2020
+April 2020 - July 2020
 
 ::: concise
 - Used R and the Shiny framework to develop the EIVE (Economic Impacts of Volcanic Eruptions) application.
@@ -113,7 +114,7 @@ SAS LogoSapience
 
 Saint-Jean de Linières, France
 
-2019
+April 2019 - June 2019
 
 ::: concise
 - Used R and Python to implement a content-based recommander system 
@@ -156,22 +157,22 @@ Angers, France
 Reference {data-icon=users}
 --------------------------------------------------------------------------------
 #### Philippe COMPAIRE
-Associate Professor in Econometrics at Université d'Angers
-philippe.compaire@univ-angers.fr     
-Angers, France    
+Associate Professor in Econometrics at Université d'Angers   
+philippe.compaire@univ-angers.fr      
+Angers, France     
 
 #### Michaël GOUJON
-Associate Professor at CERDI (Clermont-Ferrand)  
-mail@uca.fr,
-Clermont-Ferrand, France     
+Associate Professor at CERDI (Clermont-Ferrand)    
+michael.goujon@uca.fr    
+Clermont-Ferrand, France      
 
 #### François CADEAU
 
-CEO of SAS LogoSapience  
-mail@wizzbe.fr    
-Saint-Jean de Linières, France    
+CEO of SAS LogoSapience   
+f.cadeau@wizzbe.org    
+Saint-Jean de Linières, France      
 
 #### Antoine TANGUY
-Principal Economist at National Office of Statistics (NSO) of Malta    
-mail@gov.mt    
-Malta      
+Principal Economist at National Office of Statistics (NSO) of Malta      
+antoine.tanguy@gov.mt      
+Malta       
