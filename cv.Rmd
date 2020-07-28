@@ -1,0 +1,177 @@
+---
+title: "Axel-Cleris' Resume"
+author: Axel-Cleris Gailloty
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+![Axel-Cleris](gailloty.webp){width=70%}
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> mr.clerisaxel@hotmail.fr
+- <i class="fa fa-firefox"></i> [https://agailloty.rbind.io](https://agailloty.rbind.io)
+- <i class="fa fa-linkedin"></i> [cgailloty](https://www.linkedin.com/in/cgailloty/)
+- <i class="fa fa-github"></i> [github.com/agailloty](https://github.com/agailloty)
+- <i class="fa fa-phone"></i> +33 758784668
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+##### Data related skills
+- Experienced in statistical analysis, econometric models, machine learning algorithms
+
+##### Tools
+- Highly skilled in R, Python, Bash, JavaScript, RStudio, Jupyter Notebook, Git/GitHub
+
+##### Web development
+R Shiny, JavaScript, React.js, HTML, CSS
+
+<div> </div>
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Axel-Cleris Gailloty {#title}
+--------------------------------------------------------------------------------
+
+### Currently searching for an internship in Data Science
+
+I would like to join a team of data scientist to complete my Master Degree in Applied Economics.
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Université d'Angers
+
+Master Degree in Economics : Ingeneering and Assessment
+
+Angers, France
+
+2021
+
+### UC San Diego (edX)
+
+MicroMasters in Data Science. 
+3/4 certificates validated.
+
+edX, online
+
+2019 - 2020
+
+### Université d'Angers
+
+Bachelor in Economics, with Honours.
+
+Angers, France
+
+2019
+
+
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### R Shiny Developer, intern
+
+CERDI CNRS (Center for Studies and Research in Development Economics)
+
+Clermont-Ferrand, France
+
+April - July 2020
+
+::: concise
+- Used R and the Shiny framework to develop the EIVE (Economic Impacts of Volcanic Eruptions) application.
+- Styling the app with CSS and JavaScript
+- Implementing various functionalities such as leaflet maps, data visualization tools, authentication handlers all implemented with R.
+:::
+
+### Data Scientist, intern
+
+SAS LogoSapience
+
+Saint-Jean de Linières, France
+
+2019
+
+::: concise
+- Used R and Python to implement a content-based recommander system 
+- Designed a database with PosgreSQL to store the outputs of the computations made with R
+- Communicating with the front-end teams for better integration
+:::
+
+
+Selected Projects {data-icon=file}
+--------------------------------------------------------------------------------
+
+### EIVE (Economic Impacts of Volcanic Eruptions)
+
+A Shiny web application geared towards researchers in Economics and Volcanology to create a community led database for the economic consequences of volcanic eruptions.
+
+Clermont-Ferrand, France
+
+2020
+
+**Axel-Cleris Gailloty**, Hajare EL HADRI, Michaël GOUJON, Raphaël PARIS.
+
+### Indeed's webscraper
+
+A Shiny application that translates the requests of users into valid HTTP requests sent to the Indeed's server. The returned HTML is then parsed to extract valuable information representedwith visualization tools part of the rich ecosystem of R.
+
+Angers, France
+
+2019
+
+
+### Economic Litterature
+
+An NLP project with Python that uses various techniques to study how economic litterature has evolved since Adam Smith's *Wealth of Nations*.  
+The project uses the word2vec algotithm to embed the texts and keep their context. 
+
+Angers, France
+
+2019
+
+Reference {data-icon=users}
+--------------------------------------------------------------------------------
+#### Philippe COMPAIRE
+Associate Professor in Econometrics at Université d'Angers
+philippe.compaire@univ-angers.fr     
+Angers, France    
+
+#### Michaël GOUJON
+Associate Professor at CERDI (Clermont-Ferrand)  
+mail@uca.fr,
+Clermont-Ferrand, France     
+
+#### François CADEAU
+
+CEO of SAS LogoSapience  
+mail@wizzbe.fr    
+Saint-Jean de Linières, France    
+
+#### Antoine TANGUY
+Principal Economist at National Office of Statistics (NSO) of Malta    
+mail@gov.mt    
+Malta      
