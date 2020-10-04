@@ -1,7 +1,6 @@
 @page{
   size: letter portrait;
-  /*margin: 1in 0.5in 1in 0.25in;*/
-  margin:0;
+  margin: 1in 0.5in 1in 0.25in;
 }
 
 *{
@@ -84,7 +83,7 @@ img{
 #main{
   width: var(--main-width);
   padding: 0 0.25in 0 0.25in;
-  font-size: 0.7rem;
+  font-size: 0.65rem;
   float: left;
 }
 
@@ -96,7 +95,7 @@ img{
 .aside{
   width: var(--sidebar-width);
   padding: 0.6in var(--sidebar-horizontal-padding);
-  font-size: 0.8rem;
+  font-size: 0.62rem;
   float: right;
   position: absolute;
   right: 0;
@@ -130,7 +129,7 @@ h1, h2{
 /*** categorial blocks ***/
 
 .main-block{
-  margin-top: 0.1in;
+  margin-top: 0.085in;
 }
 
 #main h2{

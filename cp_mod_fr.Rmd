@@ -1,0 +1,178 @@
+---
+title: "CV de Axel-Cleris "
+author: Axel-Cleris Gailloty
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    css: "customCSS/cv.css"
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+![Axel-Cleris](gailloty.webp){width=85%}
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> mr.clerisaxel@hotmail.fr
+- <i class="fa fa-firefox"></i> [https://agailloty.rbind.io](https://agailloty.rbind.io)
+- <i class="fa fa-linkedin"></i> [cgailloty](https://www.linkedin.com/in/cgailloty/)
+- <i class="fa fa-github"></i> [github.com/agailloty](https://github.com/agailloty)
+- <i class="fa fa-phone"></i> +33 758784668
+
+
+Compétences {#skills}
+--------------------------------------------------------------------------------
+##### Bureautique et productivité
+- Pack Office (Word, Excel, Powerpoint, Teams)
+- Programmation en Excel VBA
+- Rédaction et production automatique de rapports (reporting) (Latex, Markdown, Google Docs) 
+- Automatisation des tâches via Python
+- Très bonne connaissance de Windows et UNIX
+
+:::aside
+##### Compétences orientées data
+- Expériences concrètes en analyses statistiques, modélisations économétriques et utilisation des algorithmes de machine learning. 
+- Maintenance des bases de données : Oracle MySQL, Microsoft Access, PosgreSQL
+:::
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+Dernière mise à jour `r Sys.Date()`.
+
+
+Main
+================================================================================
+
+Axel-Cleris Gailloty {#title}
+--------------------------------------------------------------------------------
+
+### A la recherche d'un stage ou alternance chargé de projet / d'études économiques et statistiques. 
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Université d'Angers
+
+Master en Economie appliquée parcours Ingéniérie économique et évaluations  
+
+Angers, France
+
+2021
+
+*Master 1 validé avec Mention Bien*
+
+### UC San Diego (edX)
+
+MicroMasters en Data Science. 
+3/4 certificats validés.
+
+edX, en ligne
+
+2020
+
+### Université d'Angers
+
+Licence en Economie et Gestion parcours Economie, **mention Bien**.
+
+Angers, France
+
+2019
+
+Expériences professionnelles {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Developpeur d'application web en R Shiny, stage
+
+CERDI CNRS (Centre de Recherches et d'Etudes en Développement International)
+
+Clermont-Ferrand, France
+
+Avr 2020 - Juil 2020
+
+::: concise
+- Utilisation de R et du framework Shiny pour développer l'application EIVE (Economic Impacts of Volcanic Eruptions).
+- Stylisation de l'application avec CSS et JavaScript
+- Implémentation des fonctionnalités telles que la production automatisée de documents, l'authentification des utilisateurs et implémentation de diverses visualisations intéractives. 
+- Formation du personnel en charge d'utiliser l'application.  
+:::
+
+### Programmeur statisticien, stage
+
+SAS LogoSapience
+
+Saint-Jean de Linières, France
+
+Avr 2019 - Jun 2019
+
+::: concise
+- Utilisation de R et de Python pour l'implémentation d'un système de recommantation basé sur contenu.
+- Création d'une base de relationnelle qui stocke les résultats du calcul afin d'intérargir avec le logiciel wizzbe.
+Implémentation d'un mécanisme de maintenance de la base de données  
+- Communication avec l'équipe front-end pour l'intégration des résultats dans l'application dans l'interface applicative.
+:::
+
+
+Projets réalisés {data-icon=file}
+--------------------------------------------------------------------------------
+
+### EIVE (Economic Impacts of Volcanic Eruptions)
+
+Développement d'une application web avec R Shiny destiné à être utilisée par des chercheurs en économie et en volcanologie afin de contribuer à la base de données collaborative *conséquences économiques des éruptions volcaniques*. 
+Lien Internet : https://axel-cleris-gailloty.shinyapps.io/eruptions/
+
+Clermont-Ferrand, France
+
+2020
+
+**Axel-Cleris Gailloty**, Hajare EL HADRI, Michaël GOUJON, Raphaël PARIS.
+
+### Indeed's webscraper
+
+Une application Shiny qui traduit les requêtes des utilisateurs en réquêtes valides HTTP à destination du serveur Indeed. Ds informations importantes sont extraites puis visualisées à partir du fichier HTML réponse du serveur. 
+Lien Internet : https://axel-cleris-gailloty.shinyapps.io/indeed_webscraper 
+
+Angers, France
+
+2019
+
+
+### Les déterminants qui entrent dans la l’évaluation des prix de vente des propriétés résidentielles  
+Etude économétrique avec réalisée dans le cadre du cours de Data Mining 2. 
+Lien Internet : https://agailloty.github.io/latent-variable-regressions/
+
+Angers, France
+
+2019
+
+Références {data-icon=users}
+--------------------------------------------------------------------------------
+#### Philippe COMPAIRE
+Maître de conférences en Econometrie à l'Université d'Angers   
+philippe.compaire@univ-angers.fr      
+Angers, France     
+
+#### Michaël GOUJON
+Maître de conférence en Economie au CERDI (Clermont-Ferrand)    
+michael.goujon@uca.fr    
+Clermont-Ferrand, France      
+
+#### François CADEAU
+
+PDG de la société SAS LogoSapience   
+f.cadeau@wizzbe.org    
+Saint-Jean de Linières, France      
+
+#### Antoine TANGUY
+Principal Analyst au National Office of Statistics (NSO) de Malte       
+antoine.tanguy@gov.mt       
+Malte       
